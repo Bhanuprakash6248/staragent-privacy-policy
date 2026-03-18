@@ -126,4 +126,14 @@ For privacy-related questions or data requests:
 
 ---
 
+## 11. Account deletion and data deletion
+
+You can request deletion of your StarAgent account and associated data at any time.
+
+To delete your account, please email us at **support.staragent@gmail.com** from the email address used in your StarAgent account and mention “Account deletion request” in the subject.
+
+After we verify your request, we will delete your account and associated data (account details and customer records) from our active systems within 30 days, except for any information we are required to retain for legal, accounting, or security reasons. Such retained data will be kept only as long as required by law.
+
+---
+
 StarAgent is independently developed and maintained by Bhanu Prakash.
